@@ -67,5 +67,3 @@ I have created a Test Plan for the Project
 Project name: 
 What.
 
-dad
-
